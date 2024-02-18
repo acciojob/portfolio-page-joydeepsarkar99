@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+header>img{
+	width:300px;
+	height:200px;
+}
